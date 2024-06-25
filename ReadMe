@@ -1,0 +1,10 @@
+ Run ''Run.sh'' to generate results. 
+
+ Some clarifications in Run.sh:
+'Passive': (Baseline) A passive sequential two-sample test
+
+'V10UpdateTrain_EnhanceUncertainty2': Proposed method
+
+
+
+
